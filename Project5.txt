@@ -1,0 +1,13 @@
+Project 5 Initial IDEA
+
+So im going to be creating a code which will determine whetever a student 
+can graduate or not,is gonna take in count
+ gpa, grades, credits (like necessary credits fro graduation), 
+and a different Identification for each student (ID)
+I would like to use "Random class" whch randomly generates; 
+credits and grades (so i dont have to put them manually and there will be some more variaty) 
+(learned this in a extracurricular class with my brother 
+and found it very interesting)
+
+
+ 
